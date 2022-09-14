@@ -7,3 +7,5 @@ My first web page using HTML
  i have acquired while i have been studying with the odin project curriculum.
  it is meant to help me apply all the knowledge that I now have.
  From learnign how to use the shell and git to how to write html and summit comments.
+
+I have made the mistake of making the page in english and spanish, this happen because i copy the recipe from a page in spanish.
